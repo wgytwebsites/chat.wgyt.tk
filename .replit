@@ -1,0 +1,2 @@
+run = "npm start 3000"
+language = "nodejs" # optional
