@@ -1,3 +1,5 @@
+### This is based off of @m1k1o's [Chat](https://github.com/m1k1o/chat/)
+_This repo isn't a fork because replit can't handle cloning repossitories and then forking the code from the original with all the changes from replit into a new repo :|_
 # chat
 Simple plug & play real-time JavaScript chat implemented using Socket.io.
 
