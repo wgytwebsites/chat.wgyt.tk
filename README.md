@@ -1,3 +1,2 @@
 # chat
-## coming soon
-# :tm:
+## Socket.io chat
