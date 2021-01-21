@@ -1,2 +1,1 @@
-# chat
-## Socket.io chat
+# archived in favor of social.wgyt.tk
